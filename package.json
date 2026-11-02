@@ -1,0 +1,17 @@
+{
+ "name": "flowr",
+ "version": "0.45.0",
+ "private": true,
+ "dependencies": {
+  "@capacitor/android": "^7.0.0",
+  "@capacitor/cli": "^7.0.0",
+  "@capacitor/core": "^7.0.0",
+  "@capacitor/filesystem": "^7.0.0",
+  "@capacitor/share": "^7.0.0"
+ },
+ "devDependencies": {
+  "three": "0.180.0",
+  "esbuild": "0.25.11",
+  "@capacitor/assets": "^3.0.5"
+ }
+}
